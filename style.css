@@ -6,8 +6,8 @@ body {
   text-align: center;
 }
 
-img {
-  width: 300px;
+.intro {
+  width: 200px;
   margin: 0 auto;
   border: 2px solid #000;
   border-radius: 50%;
@@ -21,7 +21,19 @@ img {
   margin: 20px auto;
 }
 
+.habit1 {
+  width: 100px;
+}
+
+.habit2 {
+  width: 50px;
+}
+
 .end {
   font-size: x-large;
   font-weight: bold;
+}
+
+.sns {
+  width: 50px;
 }
